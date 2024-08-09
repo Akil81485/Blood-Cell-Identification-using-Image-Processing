@@ -1,1 +1,1 @@
-![Repo Preview](https://Blood-Cell-Identification-using-Image-Processing.com/repo-preview.png)
+![Repo Preview](https://example.com/repo-preview.png)
